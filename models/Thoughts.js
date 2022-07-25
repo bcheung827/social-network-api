@@ -38,8 +38,8 @@ const ThoughtsSchema = new Schema(
             maxlength: 280
         },
         createdAt: {
-            type: Date.
-            defualt: Date.now,
+            type: Date,
+            default: Date.now,
             get: (createdAtVal) => moment(createdAtVal).format('MMM DD, YYYY [at] hh:mm a')
         },
         username: {
