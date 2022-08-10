@@ -2,8 +2,25 @@
   "dependencies": {
     "express": "^4.18.1",
     "moment": "^2.29.4",
-    "mongodb": "^4.8.0",
-    "mongoose": "^6.4.4",
+    "mongodb": "^4.8.1",
+    "mongoose": "^6.5.0",
     "nodemon": "^2.0.19"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "social-network-api",
+  "description": "## Table of Contents   - [Description](#description)   - [Installation](#installation)   - [Usage](#usage)   - [Contribution](#contribution)   - [Testing](#testing)   - [Contact](#contact)",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcheung827/social-network-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcheung827/social-network-api/issues"
+  },
+  "homepage": "https://github.com/bcheung827/social-network-api#readme"
 }

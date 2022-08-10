@@ -16,6 +16,9 @@
   ## Usage
   In the integrated terminal type npm start then npm run watch
 
+ <img src="assets/social-network-api.gif"><br>
+  Or view link here - [Screencastify](https://drive.google.com/file/d/1YGL0AFxAvDUXqpB-8LF-6ejdoeQlAw5W/view)
+
   ## Testing
   N/A
   
